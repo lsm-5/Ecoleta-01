@@ -1,0 +1,12 @@
+node_modules/
+.vscode/
+dist/
+build/
+tmp/*
+!tmp/.gitkeep
+temp/
+.idea/
+temp/*
+!temp/.gitkeep
+coverage/
+.DS_Store
