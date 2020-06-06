@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧
+NextLevelWeek 1.0 🚀
 </h4>
 
 <p align="center">
@@ -107,6 +107,7 @@ $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 ```
+### Obs: Para upar uma imagem e ela ser mostrada tanto no frontend web quanto no mobile, é necessário trocar o ip para o ip da sua máquina.
 
 ### 🧭 Rodando a aplicação web (Front End)
 
@@ -119,17 +120,31 @@ $ git clone https://github.com/lsm-5/ecoleta
 $ cd web
 
 # Instale as dependências
-$ npm install
+$ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
 ### 📱Rodando a aplicação mobile 
 
-🚧 Em construção... 🚧
+```bash
+# Clone este repositório
+$ git clone https://github.com/lsm-5/ecoleta
+
+
+# Vá para a pasta da aplicação mobile
+$ cd mobile
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start 
+
+```
 
 ## 😯 Como contribuir para o projeto
 
