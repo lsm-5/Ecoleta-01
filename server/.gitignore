@@ -10,3 +10,6 @@ temp/*
 !temp/.gitkeep
 coverage/
 .DS_Store
+uploads/*
+!uploads/.gitkeep
+*.sqlite
